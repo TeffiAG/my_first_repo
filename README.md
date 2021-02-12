@@ -7,3 +7,5 @@ Esto es una negrita**
  <strong>Esto es una negrita</strong>
 <em>Esto es una itálica</em>
 <strong><em>Esto es una negrita con itálica</em></strong>
+
+Palito es un capullo por ponerme a estudiar esto 
