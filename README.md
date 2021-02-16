@@ -9,4 +9,5 @@ Esto es una negrita**
 <strong><em>Esto es una negrita con itálica</em></strong>
 
 Palito es un capullo por ponerme a estudiar esto 
-la koala se le esta olvidando hacer lo de la otra ves pringafa
+la koala se le esta olvidando hacer lo de la otra ves pringada
+vamos que tu puedess
