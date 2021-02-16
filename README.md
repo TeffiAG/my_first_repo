@@ -10,4 +10,4 @@ Esto es una negrita**
 
 Palito es un capullo por ponerme a estudiar esto 
 la koala se le esta olvidando hacer lo de la otra ves pringada
-vamos que tu puedess
+vamos que tu puedessssss
